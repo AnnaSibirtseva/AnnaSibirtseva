@@ -1,7 +1,6 @@
-### Hello 👋
-My name is Anna 
+### Hello! I'm Anna👋 
 
-#### Сurrently:
+### Сurrently:
 🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
 
 🖖 Trying to learn sign language.
@@ -10,25 +9,25 @@ My name is Anna
 
 📚 Learning proofs for a colloquium on linear algebra.
 
-#### Contacts:
+### Contacts:
 ⭐️ Telegram: @back_soon
 
 ⭐️ Email: assibirtseva@edu.hse.ru
 
-#### Education:
+### Education:
 - Autonomous non-profit educational organization lyceum "Kovcheg-XXI"
 - National Research University "Higher School Of Economics", Faculty of Computer Science, Bachelor’s Programme "Software Engineering"
 
-#### Languages:
+### Languages:
 🌏 Russian
 
 🌎 English
 
-#### Programming languages:
+### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 
-#### Hobbies:
+### Hobbies:
 🎨 Drawing 
 
 🎵 Suffering from sad music
