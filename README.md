@@ -24,7 +24,7 @@
 🌎 English
 
 ### Programming languages:
-![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-4576a7?style=for..)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 
 ### Hobbies:
