@@ -7,7 +7,7 @@
 
 💻 Working on new Peergrade.
 
-📚 Learning proofs for a colloquium on linear algebra.
+📚 Learning proofs for linear algebra colloquium.
 
 ### Contacts:
 ⭐️ Telegram: @back_soon
