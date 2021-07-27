@@ -5,9 +5,9 @@
 
 🖖 Trying to learn sign language.
 
-💻 Working on new Peergrade.
+💻 Working on a new project.
 
-📚 Learning proofs for linear algebra colloquium.
+📚 Learning Java and LaTeX.
 
 ### Contacts:
 ⭐️ Telegram: @back_soon
