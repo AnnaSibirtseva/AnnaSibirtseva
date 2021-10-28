@@ -24,8 +24,10 @@
 🌎 English
 
 ### Programming languages:
-![Python](https://img.shields.io/badge/-Python-4576a7?style=for-the-badge&logo=Python&logoColor=fc6)
-![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
+![Python](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Python.png)
+![C#](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/CS.png)
+![Java](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Java.png)
+![C++](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/CPP.png)
 
 ### Hobbies:
 🎨 Drawing 
