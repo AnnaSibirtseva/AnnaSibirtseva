@@ -28,7 +28,11 @@
 ![C#](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/CS.png)
 ![Java](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Java.png)
 ![C++](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/CPP.png)
-<!--![Flutter](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Flutter.png)-->
+![Dart](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Dart.png)
+
+### Additional knowledge:
+![Flutter](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Flutter.png)
+![LaTeX](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Latex.png)
 
 ### Hobbies:
 🎨 Drawing 
