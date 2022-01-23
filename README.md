@@ -31,7 +31,7 @@
 ![Dart](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Dart.png)
 
 ### Additional knowledge:
-![Flutter](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Flutter.png)
+![Flutter](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/CPP.png)
 ![LaTeX](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Latex.png)
 
 ### Hobbies:
