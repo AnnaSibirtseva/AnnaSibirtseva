@@ -1,13 +1,13 @@
 ### Hello! I'm Anna👋 
 
 ### Сurrently:
-🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
+🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering, 2 year.
 
 🖖 Trying to learn sign language.
 
 💻 Working on a new project.
 
-📚 Learning Java and LaTeX.
+📚 Learning С.
 
 ### Contacts:
 ⭐️ Telegram: @back_soon
@@ -19,9 +19,9 @@
 - National Research University "Higher School Of Economics", Faculty of Computer Science, Bachelor’s Programme "Software Engineering"
 
 ### Languages:
-🌏 Russian
+🌏 Russian _(Native)_
 
-🌎 English
+🌎 English _(C1)_
 
 ### Programming languages:
 ![Python](https://raw.githubusercontent.com/AnnaSibirtseva/AnnaSibirtseva/main/PL/Python.png)
@@ -37,7 +37,7 @@
 ### Hobbies:
 🎨 Drawing 
 
-🎵 Suffering from sad music
+🎵 Music
 
 🎲 Tabletop games
 
