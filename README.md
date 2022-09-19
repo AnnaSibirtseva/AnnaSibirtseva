@@ -1,13 +1,13 @@
 ### Hello! I'm Anna👋 
 
 ### Сurrently:
-🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering, 2 year.
+🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering, 3 year.
 
 🖖 Trying to learn sign language.
 
 💻 Working on a new project.
 
-📚 Learning С.
+📚 Learning SQL.
 
 ### Contacts:
 ⭐️ Telegram: @back_soon
