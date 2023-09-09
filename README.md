@@ -1,11 +1,11 @@
 ### Hello! I'm Anna👋 
 
 ### Сurrently:
-🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering, 3 year.
+🎓 Studying at HSE, Faculty of Computer Science, Bachelor’s Programme Software Engineering, 4 year.
+
+💻 Interning at Ozon Tech.
 
 🖖 Trying to learn sign language.
-
-💻 Working on a new project.
 
 📚 Learning SQL.
 
